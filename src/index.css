@@ -1,0 +1,42 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-white {
+    background-color: #ffffff!important;
+    box-shadow: 0px 0px 5px 0px #888888
+}
+
+.icon-sm {
+    color:black;
+    font-size: small;
+}
+
+.icon-lg {
+    color:black;
+    font-size: large;
+}
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+    
+}
+
+@media (min-width: 992px) {
+    
+}
+
+@media (min-width: 1200px) {
+    
+}
